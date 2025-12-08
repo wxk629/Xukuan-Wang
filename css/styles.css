@@ -1,0 +1,134 @@
+#title {
+    background-color: rgb(196, 228, 246);
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+.navbar-name {
+    font-family: 'Lexend Deca';
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-family: 'Merriweather Sans' , sans-serif;
+    font-size: 1.2rem;
+}
+
+h3 {
+    padding: 2% 10%;
+    font-family: 'Merriweather Sans';
+    font-weight: bold;
+}
+
+h4 {
+    font-family: 'Lexend Deca';
+    font-weight: bold;
+}
+
+p {
+    padding: 2% 10%;
+    font-family: 'Lexend Deca';
+    color: rgb(94, 52, 52);
+    font-size: 1.5rem;
+}
+
+.icon {
+    color:rgb(179, 0, 255);
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color:rgb(250, 212, 255);
+}
+
+#past-works {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: rgb(79, 176, 92);
+}
+
+#past-works-details {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: rgb(13, 123, 159)
+}
+
+.past-works-images1 {
+    align-items: center;
+    border-radius: 20px;
+    width: 40%;
+}
+
+.past-works-images2 {
+    align-items: center;
+    border-radius: 20px;
+    width: 75%;
+}
+
+
+.past-works-title {
+    padding: 7% 15%;
+}
+
+.tritonware-image {
+    border-radius: 20px;
+    width: 40%;
+}
+
+.figma-image {
+    border-radius: 20px;
+    width: 45%;
+}
+
+.studyBuddy-image {
+    border-radius: 20px;
+    width: 25%;
+}
+
+.dice-image {
+    border-radius: 20px;
+    width: 60%;
+}
+
+.wedding-planner-image {
+    border-radius: 20px;
+    width: 75%;
+}
+
+.press-logo {
+    width:10%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+#footer {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: rgb(196, 228, 246);
+}
+
+.footer-text {
+    font-family: 'Lexend Deca';
+    color: rgb(94, 52, 52);
+    font-size: large;
+}
+
+@media (max-width:1028px){
+    #title {
+        text-align: center;
+    }
+}
